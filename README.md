@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adamk3. A software engineering student.
-- 👀 I’m interested software design, games, project-based learning
+- 👀 I’m interested software design, games, and project-based learning
 - 🌱 I’m currently learning intermediate programming and software construction
 - 💞️ I’m looking to collaborate on anything! ;)
 - 📫 You can reach me by email: adamkuk04@gmail.com.
